@@ -48,7 +48,7 @@ Proyek ini dibuat dengan menerapkan konsep utama **Object-Oriented Programming (
 
 ---
 
-## 📐 Class Diagram (UML)
+## Class Diagram (UML)
 
 Berikut adalah diagram kelas (*Class Diagram*) dari Sistem Manajemen Karyawan:
 
@@ -56,7 +56,7 @@ Berikut adalah diagram kelas (*Class Diagram*) dari Sistem Manajemen Karyawan:
 
 ---
 
-## 👨‍💻 Identitas
+## Identitas Mahasiswa
 
 - **Nama:** Robby Ibrahimovic Wibowo
 - **NIM:** 252410103020
